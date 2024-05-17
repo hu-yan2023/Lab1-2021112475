@@ -11,7 +11,11 @@ public class GraphProcessor {
 
     public static void main(String[] args) {
         GraphProcessor processor = new GraphProcessor();
+<<<<<<< HEAD
         System.out.println("B1");
+=======
+        System.out.println("c4");
+>>>>>>> C4
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入文本文件路径：");
         String filePath = scanner.nextLine();
