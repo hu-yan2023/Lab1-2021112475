@@ -11,7 +11,7 @@ public class GraphProcessor {
 
     public static void main(String[] args) {
         GraphProcessor processor = new GraphProcessor();
-        System.out.println("B2");
+        System.out.println("2021112475");
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入文本文件路径：");
         String filePath = scanner.nextLine();
